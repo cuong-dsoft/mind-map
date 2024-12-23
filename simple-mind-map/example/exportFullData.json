@@ -1,48 +1,681 @@
 {
-    "layout": "logicalStructure",
+    "layout": "organizationStructure",
     "root": {
         "data": {
-            "text": "根节点",
+            "text": "<p><strong style=\"color: rgb(255, 255, 255);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 24px;\">Nguyễn Công Hoan</strong></p>",
             "expand": true,
-            "isActive": false
+            "richText": true,
+            "isActive": false,
+            "uid": "24985401-d5e1-4c34-8acd-353b5ee79b8d",
+            "note": "Nguyễn Công Hoan là ông tổ nhánh chợ còn",
+            "icon": [
+                "priority_1"
+            ]
         },
-        "children": [{
-            "data": {
-                "text": "二级节点",
-                "generalization": {
-                    "text": "概要",
-                    "expand": true,
-                    "isActive": false
-                },
-                "expand": true,
-                "isActive": false
-            },
-            "children": [{
+        "children": [
+            {
                 "data": {
-                    "text": "分支主题",
+                    "text": "<p><span style=\"color: rgb(255, 255, 255);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 18px;\">Nguyễn Công Hoan (con)</span></p>",
+                    "uid": "e36a5373-7499-46b1-82da-6db3e9da72c1",
                     "expand": true,
-                    "isActive": false
+                    "richText": true,
+                    "isActive": false,
+                    "icon": [
+                        "priority_2"
+                    ]
                 },
-                "children": []
-            }, {
-                "data": {
-                    "text": "分支主题",
-                    "expand": true,
-                    "isActive": false
-                },
-                "children": []
-            }, {
-                "data": {
-                    "text": "<a href='http://lxqnsys.com/' target='_blank'>理想去年实验室</a>",
-                    "richText": true
-                },
-                "children": []
-            }]
-        }]
+                "children": [
+                    {
+                        "data": {
+                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Lowng </span></p>",
+                            "uid": "74537934-faa8-4fdf-bcfc-cf1efc25d677",
+                            "expand": true,
+                            "richText": true,
+                            "isActive": false,
+                            "icon": [
+                                "priority_3"
+                            ]
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Nỉnh</span></p>",
+                                    "uid": "a7436810-694f-474f-b5c6-9f3285e9d500",
+                                    "expand": true,
+                                    "richText": true,
+                                    "isActive": false
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Hoành</span></p>",
+                                            "uid": "7323f349-6cfe-4fe6-9135-dba69671cf3b",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Chắt</span></p>",
+                                                    "uid": "3b87f582-77fe-4547-8d8c-d8f91df3641c",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Hùng</span></p>",
+                                                            "uid": "a2bcf3d7-1049-4a22-9a62-3fe70bbeaef9",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Hồng Quân</span></p>",
+                                                                    "uid": "c993ea4b-8d9a-4b40-9aa7-a6f31c2209b6",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Mạnh</span></p>",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false,
+                                                                    "uid": "8772e2f6-8925-4c29-bb1b-c61ddbc2a764"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Toản</span></p>",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false,
+                                                                    "uid": "f96fd4de-aafc-440b-bc2f-8d39eca0f8a9"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Thị Sen</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "3f463de1-f145-48ec-b6dc-e49000f0271a"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Thiên</span></p>",
+                                                    "uid": "0107410f-6b44-4a5e-8e01-a2cb9085f357",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyện Thị Sâm</span></p>",
+                                                            "uid": "e6299a5f-117a-405b-a68f-5d7a0655ba2b",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Kiên</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "9ab33b7e-8230-4014-b08b-beaf61ea870b"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Thị Lan</span></p>",
+                                                    "uid": "87ad9e45-ef44-4d7b-a25c-a08b7a881221",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Tân</span></p>",
+                                                    "uid": "98a61987-c500-4d02-877d-b4a76664f163",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Vân Anh</span></p>",
+                                                            "uid": "8e1c2556-108a-4556-a3fd-3f52c09b2239",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Phương Nam</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "2487d45f-f604-4006-bb15-22b45cf06442"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Lâm</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "cf282b43-1414-46a9-bb62-12463a8580f5"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Ba</span></p>",
+                                            "uid": "9615dae8-d36f-4613-b7f5-f2d20aae00c4",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Sâm</span></p>",
+                                                    "uid": "808645e5-0fcb-4666-bbba-a08ef1e810dd",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Quát</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "0217ea16-3540-44b6-bde0-9a72d7e15b18"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Minh</span></p>",
+                                                            "uid": "ceaad68d-3d74-4e3d-954f-8dc50f71e761",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Ngọc Thiên Di</span></p>",
+                                                                    "uid": "9da7a061-845a-4a87-ba64-ee65d5f57978",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Quý</span></p>",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false,
+                                                                    "uid": "cf4bd6cc-96b4-4a07-87fc-e39ba372c7af"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Hải</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "e9c7ccd5-f637-4b42-b14e-bb032cac53a6"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Huệ</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "632b2fbb-89dd-479f-b370-79999ac43265"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Hùng</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "e7cb9c06-153a-4f42-ad08-bac4ae44c2bf"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Dung</span></p>",
+                                                            "uid": "01496489-7d52-4acb-8617-bdffe8d21225",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Cường</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "be9e154f-5948-46fc-82dd-b0aef204464b"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thùy Lâm</span></p>",
+                                                                    "uid": "6fce7a9a-9775-407f-9794-893013d8da3f",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86); font-size: 14px;\">Nguyễn Công Phương</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "fe65a472-2261-4388-8b15-6f84b8efdb5d"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Hoạt</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "a95db0a4-0eef-49c8-9228-811370d17dad"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Hương</span></p>",
+                                                            "uid": "9c9f7704-2746-406f-b85f-03f73e4779ef",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Lý</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "c868f7db-f7db-4830-a420-3e1ad1907bc6"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Linh</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "3f1cfd99-3e8b-49e5-96d9-126f8090ec1d"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Khánh</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "164d8864-57ef-451a-ab9c-d714797c1552"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Đức (Tâm)</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "7ba33980-05ce-4ef1-ace9-3c673e1735c9"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Hoàng</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "c8de30bb-55dd-45c4-ab98-159afdbf625c"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Luân</span></p>",
+                                                            "uid": "64f6b26c-1352-4dbd-bbcd-de9e1176bccf",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Hoàng My</span></p>",
+                                                                    "uid": "95076394-97e0-45f9-8db6-78b59eb619b3",
+                                                                    "expand": true,
+                                                                    "richText": true,
+                                                                    "isActive": false
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Thành</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "18eae1f3-59d1-4c44-be1f-a05f5cfcad37"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Tứ</span></p>",
+                                            "uid": "dbcc25e1-a5ec-4a4c-b148-ad2d82c73a54",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Sơn</span></p>",
+                                                    "uid": "dc393398-44df-4de0-a29d-5f34d40dfb88",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Sáng</span></p>",
+                                                            "uid": "eb882ee2-f374-4d26-bc81-9111fcaf0ef7",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Sang</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "a0adbc08-5663-4830-a1c7-e8eb31b8b80f"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Trường</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "a57a0035-5a48-4fdb-ad24-bb2b870ad9dd"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Lương</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "4590b655-c546-4cdb-a5e0-1c90449ae0f4"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị A</span></p>",
+                                                            "uid": "54278a9f-09db-453d-b137-3d7de02eeeb3",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Hoài</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "8c65ab64-cc1b-43b2-9846-599dcd883f06"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Thương</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "32a4ab7f-8ddd-49f4-b5fc-206d822838c9"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Tú</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "c7f91cd6-21a3-479d-bf32-160b9810c458"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Công Hòa</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "35d474dc-d2f0-4e1f-a7e4-f8ef8481df0e"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Biên</span></p>",
+                                                            "uid": "5327cc10-ff67-4985-a0df-0e21dbd29655",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Vân</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "88e1a152-5e54-4ad8-aab5-ba567f049def"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Thị Vy</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "856b8f82-cc5c-4ffb-9ace-3e0bb6d38192"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "text": "<p><span style=\"font-size: 14px; font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; color: rgb(30, 53, 86);\">Nguyễn Công Như</span></p>",
+                                                            "expand": true,
+                                                            "richText": true,
+                                                            "isActive": false,
+                                                            "uid": "491b2aa9-a070-48e4-987e-9a0e003cff5e"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Thảo</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "987a49fa-2a7f-45a5-a123-26dfee5c1424"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "text": "<p><span style=\"color: rgb(30, 53, 86); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 14px; font-style: normal; text-decoration: none;\">Nguyễn Thị Chín</span></p>",
+                                                    "expand": true,
+                                                    "richText": true,
+                                                    "isActive": false,
+                                                    "uid": "f7f6b733-c8a2-4d58-a671-fa7610962a8d"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Năm</span></p>",
+                                            "uid": "7d8c130c-955d-4aed-bd05-beb8027157b0",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Sáu</span></p>",
+                                            "uid": "4ee8a01f-fcf6-45c9-a9ed-68f5a7a773ea",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Thị Tư</span></p>",
+                                            "uid": "8d7eeaff-10af-44f6-bb00-f055b36f0e7b",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "text": "<p><span style=\"\n      color: rgb(30, 53, 86);\n      font-family: 微软雅黑, Microsoft YaHei;\n      font-size: 14px;\n      font-weight: noraml;\n      font-style: normal;\n      text-decoration: none\n    \">分支主题</span></p>",
+                                    "expand": true,
+                                    "richText": true,
+                                    "isActive": false,
+                                    "uid": "353683ff-5a26-426f-93ef-a745a530c1bb"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Bích</span></p>",
+                                    "uid": "d92e7fcf-ff01-4153-9b1e-63f70a25bc64",
+                                    "expand": true,
+                                    "richText": true,
+                                    "isActive": false
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
     "theme": {
         "template": "classic4",
-        "config": {}
+        "config": {
+            "backgroundColor": "#FFFFFF"
+        }
     },
     "view": {
         "transform": {
@@ -50,24 +683,23 @@
             "scaleY": 1,
             "shear": 0,
             "rotate": 0,
-            "translateX": 0,
-            "translateY": 0,
+            "translateX": -612,
+            "translateY": -243.5,
             "originX": 0,
             "originY": 0,
             "a": 1,
             "b": 0,
             "c": 0,
             "d": 1,
-            "e": 0,
-            "f": 0
+            "e": -612,
+            "f": -243.5
         },
         "state": {
             "scale": 1,
-            "x": 0,
-            "y": 0,
-            "sx": 0,
-            "sy": 0
+            "x": -612,
+            "y": -243.5,
+            "sx": -610,
+            "sy": -287.5
         }
-    },
-    "config": {}
+    }
 }
