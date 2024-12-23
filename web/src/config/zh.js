@@ -492,18 +492,14 @@ export const shapeList = [
 ]
 
 // 多语言列表
-export const langList = [
-  {
-    value: 'zh',
-    name: '简体中文'
-  },
-  {
-    value: 'zhtw',
-    name: '繁體中文'
-  },
+export const langList = [  
   {
     value: 'en',
     name: 'English'
+  },
+  {
+    value: 'vi',
+    name: 'Vietnam'
   }
 ]
 
