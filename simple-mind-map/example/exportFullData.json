@@ -48,6 +48,16 @@
                                 "children": [
                                     {
                                         "data": {
+                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Thị Tư</span></p>",
+                                            "uid": "8d7eeaff-10af-44f6-bb00-f055b36f0e7b",
+                                            "expand": true,
+                                            "richText": true,
+                                            "isActive": false
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
                                             "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Công Hoành</span></p>",
                                             "uid": "7323f349-6cfe-4fe6-9135-dba69671cf3b",
                                             "expand": true,
@@ -632,17 +642,7 @@
                                             "isActive": false
                                         },
                                         "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "text": "<p><span style=\"color: rgb(30, 53, 86);font-family: 微软雅黑, &quot;Microsoft YaHei&quot;;font-size: 14px;\">Nguyễn Thị Tư</span></p>",
-                                            "uid": "8d7eeaff-10af-44f6-bb00-f055b36f0e7b",
-                                            "expand": true,
-                                            "richText": true,
-                                            "isActive": false
-                                        },
-                                        "children": []
-                                    }
+                                    }                                    
                                 ]
                             },
                             {
