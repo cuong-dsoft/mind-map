@@ -96,7 +96,7 @@ const lineStyleList = {
 const lineStyleMap = {
   zh: lineStyleMapZh,
   en: lineStyleMapZh,
-  vi: lineStyleMapVi,
+  vi: lineStyleMapZh,
   zhtw: lineStyleMapZh
 }
 
