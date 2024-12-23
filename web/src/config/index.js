@@ -144,7 +144,7 @@ const shapeList = {
 const shapeListMap = {
   zh: shapeListMapZh,
   en: shapeListMapZh,
-  vi: shapeListMapVi,
+  vi: shapeListMapZh,
   zhtw: shapeListMapZh
 }
 
