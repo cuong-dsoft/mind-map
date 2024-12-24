@@ -920,12 +920,13 @@ const rootData = {
     }
 }
 
+import data_default from './exportFullData.json' assert { type: 'json' };
 export default {
     // ...data1,
     // ...data2,
     // ...data3,
     // ...data4,
-    ...data5,
+    ...data_default,
     // ...rootData,
     "theme": {
         "template": "classic4",
@@ -933,7 +934,7 @@ export default {
             // 自定义配置...
         }
     },
-    "layout": "logicalStructure",
+    "layout": "organizationStructure",
     // "layout": "mindMap",
     // "layout": "catalogOrganization"
     // "layout": "organizationStructure",
