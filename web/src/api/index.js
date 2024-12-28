@@ -32,16 +32,16 @@ const copyMindMapTreeData = (tree, root) => {
  * @Date: 2021-08-01 10:10:49
  * @Desc: 获取缓存的思维导图数据
  */
-export const getData = () => {
+export const getData = () => {  
   if (window.takeOverApp) {
-    mindMapData = window.takeOverAppMethods.getMindMapData()
+    mindMapData = window.takeOverAppMethods.getMindMapData()    
     return mindMapData
   }
   if (vuexStore.state.isHandleLocalFile) {
     return Vue.prototype.getCurrentData()
   }
   let store = localStorage.getItem(SIMPLE_MIND_MAP_DATA)
-  if (store === null) {
+    if (store === null) {
     return simpleDeepClone(exampleData)
   } else {
     try {

@@ -920,22 +920,26 @@ const rootData = {
     }
 }
 
+import data_default from './exportFullData.json'
 export default {
     // ...data1,
     // ...data2,
     // ...data3,
     // ...data4,
-    ...data5,
+    ...data_default,
     // ...rootData,
-    "theme": {
-        "template": "classic4",
-        "config": {
-            // 自定义配置...
-        }
-    },
-    "layout": "logicalStructure",
+    // "theme": {
+    //     "template": "classic4",
+    //     "config": {
+    //         // 自定义配置...
+    //     }
+    // },
+    // "layout": "organizationStructure",
     // "layout": "mindMap",
     // "layout": "catalogOrganization"
     // "layout": "organizationStructure",
-    "config": {}
+    lang: 'vi',
+    localConfig: {
+        "isZenMode": true
+    }
 }
